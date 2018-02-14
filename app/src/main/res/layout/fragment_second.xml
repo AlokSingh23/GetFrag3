@@ -10,8 +10,8 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="this is a fragment 2"
+        android:text=" kya hoga re jaggu"
         android:textColor="#17bce6"
-        android:textSize="25sp"/>
+        android:textSize="50sp"/>
 
 </LinearLayout>
