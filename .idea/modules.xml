@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GetFrag.iml" filepath="$PROJECT_DIR$/GetFrag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GetFrag.iml" filepath="$PROJECT_DIR$/.idea/GetFrag.iml" />
+      <module fileurl="file://C:\Users\Akshay\AndroidStudioProjects\GetFrag\GetFrag.iml" filepath="C:\Users\Akshay\AndroidStudioProjects\GetFrag\GetFrag.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
