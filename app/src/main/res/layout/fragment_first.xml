@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Aur jaggu kya hal hai"
+        android:text="Aur jaggu kya hal hai hmm"
         android:id="@+id/text"
         android:textColor="#000000"
         android:textSize="25sp"/>
